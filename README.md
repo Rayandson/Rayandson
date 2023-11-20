@@ -2,7 +2,7 @@
 #### I'm a Full Stack web developer constantly learning new languages and technologies to bring something new to the world.
 
 
-- 🌱 I’m currently learning PostreSQL
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Web Development
 - 📫 How to reach me: https://www.linkedin.com/in/rayandson-silva/
